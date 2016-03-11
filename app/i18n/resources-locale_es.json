@@ -1,0 +1,17 @@
+{
+    "dashboard": "tablero",
+    "login": "iniciar sesión",
+    "log in": "iniciar sesión",
+    "email":"correo electrónico",
+    "enter your name": "Introduzca su nombre",
+    "username": "nombre de usuario",
+    "sign up": "Regístrate",
+    "don't have an account yet?": "no tienen una cuenta todavía?",
+    "forgot your password?": "¿Olvidaste tu contraseña?",
+    "password": "contraseña",
+    "users": "usuarios",
+    "user info": "Información de usuario",
+    "this field is required": "este campo es requerido",
+    "not a valid email": "no un correo electrónico válido",
+    "password can only contain aplhabets & b/w 3 to 14 characters": "contraseña sólo puede contener alfabetos & b / w 3 a 14 caracteres"
+}

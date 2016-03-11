@@ -1,0 +1,45 @@
+.page-login {
+    background-image: url('../images/login-bg.jpg');
+    background-size: cover;
+    height: 100vh;
+    .container{
+        background-color:transparent;
+    }
+
+    // 
+    .login-body {
+        padding: 20px 10px;
+        .container{
+            background-color: rgba(255, 255, 255, 0.4);
+            border-radius: 100px;
+            box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.5);
+        }
+
+    }
+
+    .form-container {
+        max-width: 420px;
+        margin: 10px auto;
+    }
+
+    // Line through
+    .line-thru {
+        margin: 1em 0;
+        display: block;
+        font-size: 2em;
+        font-weight: bold;
+        margin-bottom: 1em;
+        position: relative;
+        text-align: center;
+        width: 100%;
+        z-index: 1;
+        text-transform: uppercase;
+        color: #669ae1;
+        text-shadow: 1px 1px 2px #2f568c;
+    }
+
+
+    .login-role>a{
+        display: inline-block;
+    }
+}

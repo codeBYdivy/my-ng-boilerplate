@@ -1,0 +1,7 @@
+/.project
+/.tern-project
+/.settings
+/bower_components
+/node_modules
+/dist.*
+*.DS_Store

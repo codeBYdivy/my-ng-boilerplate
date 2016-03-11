@@ -1,0 +1,17 @@
+{
+    "dashboard": "Instrumententafel",
+    "login": "Anmeldung",
+    "log in": "Einloggen",
+    "email":"E-Mail",
+    "enter your name": "gib deinen Namen ein",
+    "username": "Benutzername",
+    "sign up": "Anmelden",
+    "don't have an account yet?": "Sie noch kein Konto haben?",
+    "forgot your password?": "Haben Sie Ihr Passwort vergessen?",
+    "password": "Passwort",
+    "users": "Benutzer",
+    "user info": "Benutzerinformation",
+    "this field is required": "Dieses Feld wird benötigt,",
+    "not a valid email": "keine gültige E-Mail",
+    "password can only contain aplhabets & b/w 3 to 14 characters": "Kennwort kann nur enthalten aplhabets & b / w 3 bis 14 Zeichen"
+}

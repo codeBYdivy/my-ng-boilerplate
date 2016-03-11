@@ -1,0 +1,17 @@
+{
+    "dashboard": "ダッシュボード",
+    "login": "ログイン",
+    "log in": "ログイン",
+    "email":"Eメール",
+    "enter your name": "あなたの名前を入力してください",
+    "username": "ユーザ名",
+    "sign up": "サインアップ",
+    "don't have an account yet?": "まだアカウントを持っていないのですか？",
+    "forgot your password?": "パスワードをお忘れですか？",
+    "password": "パスワード",
+    "users": "ユーザー",
+    "user info": "ユーザー情報",
+    "this field is required": "この項目は必須です",
+    "not a valid email": "いない有効なメール",
+    "password can only contain aplhabets & b/w 3 to 14 characters": "パスワードのみ/アルファベット＆Bを含めることができます3〜14文字のw"
+}
